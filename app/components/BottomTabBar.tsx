@@ -29,7 +29,7 @@ export default function BottomTabs() {
           src="/linkedin.png"
           alt="LinkedIn"
           onClick={() =>
-            openLink("https://linkedin.com/in/abhishekravi-ind")
+            openLink("https://www.linkedin.com/in/abhishek-ravi-ind/")
           }
         />
 
